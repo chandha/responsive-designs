@@ -1,0 +1,49 @@
+.o{
+  display: flex;
+  justify-content: center;
+}
+.v{
+  display: flex;
+  justify-content: center;
+}
+.a{
+  display: flex;
+  justify-content: center;
+}
+.b{
+  display: flex;
+  justify-content: center;
+}
+.d{
+  display: flex;
+  justify-content: center;
+}
+@media only screen and (min-width:425px and (max-width:768px){
+  .c{
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+  }
+  .v{
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    font-size=60px;
+  }
+  .d{
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    flex-wrap:wrap;
+  }
+  .a{
+    display: flex;
+    justify-content: center;
+  }
+  .b{
+    display: flex;
+    justify-content: center;
+  }
+  .o{
+    display: flex;
+    justify-content: center;
